@@ -1,7 +1,7 @@
 # PROJECT.md
 
 ## **Project Title: Post-Quantum Cryptography Simulator**
-This project demonstrates the vulnerabilities of classical cryptographic systems, such as RSA, to quantum attacks (notably Shor's algorithm). It also explores post-quantum cryptographic schemes as alternatives, using a hands-on approach to implement and benchmark both classical and post-quantum algorithms.
+This project will demonstrate the vulnerabilities of classical cryptographic systems, such as RSA, to quantum attacks (notably Shor's algorithm). It will also explore post-quantum cryptographic schemes as alternatives, using a hands-on approach to implement and benchmark both classical and post-quantum algorithms.
 
 ---
 
